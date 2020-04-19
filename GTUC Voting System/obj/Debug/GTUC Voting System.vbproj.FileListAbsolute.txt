@@ -1,0 +1,33 @@
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\GTUC Voting System.exe.config
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\GTUC Voting System.exe
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\GTUC Voting System.pdb
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\GTUC Voting System.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Resources.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.vbproj.GenerateResource.Cache
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.exe
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.pdb
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\FireSharp.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\System.Net.Http.Extensions.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\System.Net.Http.Primitives.dll
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\System.Net.Http.Extensions.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\bin\Debug\System.Net.Http.Primitives.xml
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.vbproj.App.config
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC Voting System.vbprojResolveAssemblyReference.cache
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.LoginForm.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Vote.resources
+E:\Projects\2020 projects\Gtuc Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Financial.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Register.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Secretary.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Treasurer.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Ent.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.PRO.resources
+E:\Projects\2020 projects\GTUC Voting System\GTUC Voting System\obj\Debug\GTUC_Voting_System.Sports.resources
